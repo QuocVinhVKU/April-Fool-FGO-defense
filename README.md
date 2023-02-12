@@ -7,10 +7,12 @@ Servant đồng minh:
 - Jack the Ripper: gây lượng lớn sát thương AOE lên kẻ địch trong 2 ô trước mặt.
 - Alice: tanker 4000hp (tương tự wall-nut PvZ)
 - Tiamat: tanker 8000hp (tương tự tall-nut PvZ)
+
 Các map khác nhau:
 - Map tuyết
 - Map rừng
 - Map đầm lầy
+
 Servant địch:
 - Shuten Douji
 - Kyohime
