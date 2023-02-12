@@ -1,5 +1,5 @@
 # April-Fool-FGO-defense
-Servant đồng minh:
+<b>Servant đồng minh:</b>
 - Artoria Santa: dùng Lazer (vfx effect + raycast) tấn công tầm xa, gây lượng lớn dame đơn mục tiêu.
 - Billy the Kid: spawn Fire ball, gây lượng vừa dame đơn mục tiêu.
 - Elizabeth: Gain 25 Quarzt per 10s.
