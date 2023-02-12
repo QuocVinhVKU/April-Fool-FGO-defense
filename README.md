@@ -10,7 +10,7 @@
 
 Các map khác nhau:
 - Map tuyết
-- &#60;span style="color:green"&#62;Map rừng&#60;/span&#62;
+- <span style="color:green">Map rừng</span>
 - Map đầm lầy
 
 Servant địch:
